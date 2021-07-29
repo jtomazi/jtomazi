@@ -1,4 +1,4 @@
- ## Opa, sou o João Vitor Tomazi!
+ ## Opa, sou o João Vitor!
  <div>
   <a href="https://github.com/jtomazi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtomazi&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
