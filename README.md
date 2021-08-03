@@ -1,5 +1,7 @@
  ## Opa, sou o João Vitor!
- <div>
+ 
+ 
+ <div style="display: inline_block" align="center">
   <a href="https://github.com/jtomazi">
   <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api?username=jtomazi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtomazi&layout=compact&langs_count=7&theme=dark"/>
